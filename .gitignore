@@ -1,0 +1,2 @@
+#Colocar solo las carpetas que desean ser ignoradas por git
+node_modules
